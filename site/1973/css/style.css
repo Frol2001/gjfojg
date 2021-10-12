@@ -7524,7 +7524,7 @@ input:not([type='checkbox']):not([type='radio']), textarea, select {
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   line-height: 16px;
-  color: #fff;
+  color: #000;
   height: 40px;
   transition: all 0.35s ease-out 0s;
   display: inline-flex;
